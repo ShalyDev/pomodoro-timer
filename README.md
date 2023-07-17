@@ -1,6 +1,6 @@
 # live demonstration
 
-You can access and see the live version of this project by clicking [here](https://pomodoro-timer-sha.netlify.app/).\
+You can access and see the live version of this project by clicking [here](https://pomodoro-timer-sha.netlify.app/).
 
 ## Available Scripts
 
