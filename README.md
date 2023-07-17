@@ -2,6 +2,8 @@
 
 You can access and see the live version of this project by clicking [here](https://pomodoro-timer-sha.netlify.app/).
 
+<img width="851" alt="pomodoro" src="https://github.com/ShalyDev/pomodoro-timer/assets/108570881/2547cec6-e772-4de5-8171-6224ec3fc388">
+
 ## Available Scripts
 
 In the project directory, you can run:
