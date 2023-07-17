@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# live demonstration
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can access and see the live version of this project by clicking [here](https://pomodoro-timer-sha.netlify.app/).\
 
 ## Available Scripts
 
