@@ -27,10 +27,6 @@ export default function Timer() {
         setSecondsLeft(secondsLeftRef.current);
     }
 
-    // function initTimer() {
-    //     setSecondsLeft(settingsInfo.focusDuration * 60);
-    // }
-
     useEffect(() => {
         function switchMode() {
             const nextMode = modeRef.current === 'focus' ? 'break' : 'focus';
@@ -48,7 +44,7 @@ export default function Timer() {
             if (isPausedRef.current) {
                 return;
             }
-            if (secondsLeft.current === 0) {
+            if (secondsLeftRef.current === 0) {
                 return switchMode();
             }
             tick();
